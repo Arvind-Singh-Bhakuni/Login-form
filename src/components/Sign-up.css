@@ -1,0 +1,104 @@
+
+
+.signup-form-section {
+    width: 100%;
+    height: 130vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signup-form-container {
+    width: 530px;
+    height: auto;
+    padding: 50px;
+    border-radius: 3px;
+    background-color: white;
+}
+
+.form-label {
+    margin-top: 10px;
+}
+
+.form-control {
+    padding: 10px;
+}
+
+.btn-2 {
+    width: 100%;
+    height: 45px;
+    margin-top: 30px;
+    border-radius: 5px;
+    
+}
+.btn-2:hover {
+    font-size: 22px;
+    color: rgba(0, 0, 0, 0.774);
+    background-color: rgba(250, 247, 247, 0.81);
+}
+
+.reset {
+    margin-top: 20px;
+}
+.h6 {
+    color:rgba(0, 0, 0, 0.415);
+    font-weight: 700;
+}
+.h6 a{
+    color: rgba(38, 126, 226, 0.736);
+    text-decoration: none;
+}
+
+.already {
+    margin-top: 30px;
+}
+
+
+   /* new css */
+
+
+
+   /* @import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Bebas+Neue&family=Courgette&family=Great+Vibes&family=Montserrat:wght@300&family=Open+Sans:wght@500&family=Oswald:wght@700&family=Playfair+Display:ital@1&family=Roboto:wght@300;400;500&family=Rubik+Bubbles&family=Sono:wght@500;800&display=swap'); */
+
+  
+ 
+   
+   
+   
+   
+   .input-group {
+     display: flex;
+     flex-direction: column;
+     gap: 0.5rem;
+   }
+   
+   input {
+     padding: 0.5rem;
+     border: 1px solid gray;
+     font-size: 1rem;
+     font-family: inherit;
+   }
+   
+   .error-message {
+     color: red;
+     font-size: 0.8rem;
+     
+   }
+   
+   button {
+     padding: 0.5rem;
+     color: white;
+     background-color: black;
+     font-size: 1.2rem;
+     margin-top: 2rem;
+   }
+
+
+   .form-check {
+    margin-left: 82%;
+    margin-top: -30px;
+   }
+
+   .form-check-input {
+    border: 2px solid rgb(60, 54, 248);
+   }
